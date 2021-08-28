@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://media.istockphoto.com/vectors/poker-table-background-in-green-color-vector-id1218355494?k=6&m=1218355494&s=612x612&w=0&h=z_AxLMnh_1EwJh1HifHvw3PqaqrDZNOCAljF2OKheyI=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 50px;
+}
+p{
+    color: honeydew;
+    font-weight: bold;
+    font-size: 20px;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 190px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
